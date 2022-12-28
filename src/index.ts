@@ -27,7 +27,7 @@ pack.addFormula({
 })
 
 pack.addColumnFormat({
-  name: 'Format number - R',
-  instructions: "'R number format'",
+  name: 'R',
+  instructions: 'R number format',
   formulaName: 'formatR',
 })
